@@ -41,5 +41,30 @@ This project is used mainly for storing medicine to maintain the details of medi
   * billDate
 
 ## METHOD
-
+1.  USER :
+ * addUser()
+ * editUser()
+ * deleteUser()
+ * searchUser()
+2.  SELLS : 
+ * addsell()
+ * editsell()
+ * deletesell()
+ * searchsell()
+3.  MEDICINE  :
+ * addmedi()
+ * editmedi()
+ * deletemedi()
+ * searchmedi()
+4.  STOCK : 
+ * addstock()
+ * editstock()
+ * deletestock()
+ * searchstock()n
+5.  BILING INFO :
+ * addbillNumb()
+ * editbillNumb()
+ * deletebillNumb()
+ * searchbillNumb()
+## DIAGRAM
 ![class diagram](https://drive.google.com/uc?export=view&id=1KlX1Qv8ARl_-0TsGYeBBBQqAu7HDDc7a)
