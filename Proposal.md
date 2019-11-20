@@ -15,5 +15,31 @@ This project is used mainly for storing medicine to maintain the details of medi
 4.  STOCK : Manage the operation that related to medicine stock
 5.  BILING INFO : Manage the operation that related to bill
 ## ATTRIBUTES
+1.  USER :
+  * Username
+  * userID
+  * userPassword
+2.  SELLS : 
+  * sellID
+  * sellDesc
+  * sellName
+  * sellDate
+3.  MEDICINE  :
+  * MediName
+  * MediID
+  * MediDateIn
+  * MediExpiredDate
+4.  STOCK : 
+  * stockID
+  * stockNum
+  * stockType
+  * stockDes
+  * stockDatein
+5.  BILING INFO :
+  * billNumber
+  * billName
+  * billDate
+
+## METHOD
 
 ![class diagram](https://drive.google.com/uc?export=view&id=1KlX1Qv8ARl_-0TsGYeBBBQqAu7HDDc7a)
