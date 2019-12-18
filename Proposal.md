@@ -66,5 +66,8 @@ This project is used mainly for storing medicine to maintain the details of medi
  * editbillNumb()
  * deletebillNumb()
  * searchbillNumb()
+## ATTRIBUTE
+![attribute](https://drive.google.com/open?id=1fymWQKXLiuIOjh5MKfohayHVnIIG_WbL)
+
 ## DIAGRAM
 ![class diagram](https://drive.google.com/uc?export=view&id=1KlX1Qv8ARl_-0TsGYeBBBQqAu7HDDc7a)
