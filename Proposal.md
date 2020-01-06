@@ -40,7 +40,7 @@ This project is used mainly for storing medicine to maintain the details of medi
  * deletebillNumb()
  * searchbillNumb()
 ## ATTRIBUTE
-![attribute](https://drive.google.com/uc?export=view&id=1O-8RFe9mA8jzpxa-82pKVZRUSOK9Z0AC)
+![attribute](https://drive.google.com/uc?export=view&id=1DdsCaWBsy_Dr3KAQSums5AkT26qQhgps)
 
 ## DIAGRAM
 ![class diagram](https://drive.google.com/uc?export=view&id=1KlX1Qv8ARl_-0TsGYeBBBQqAu7HDDc7a)
