@@ -40,12 +40,12 @@ This project is used mainly for storing medicine to maintain the details of medi
  * deletebillNumb()
  * searchbillNumb()
 ## ATTRIBUTE
-![attribute](https://drive.google.com/uc?export=view&id=1DdsCaWBsy_Dr3KAQSums5AkT26qQhgps)
+![attribute](https://drive.google.com/uc?export=view&id=1o1L0LaHPz-m5mt0RjxxWoyYNW1MVK9zr)
 
 ## DIAGRAM
-![class diagram](https://drive.google.com/uc?export=view&id=1KlX1Qv8ARl_-0TsGYeBBBQqAu7HDDc7a)
+![class diagram](https://drive.google.com/uc?export=view&id=1cVd5iCO46d7NUo6bdwHZpAOLnKZ-7INY)
 
 ## RELATIONAL DATABASE MANAGEMENT SYSTEM DIAGRAM
-![erd](https://drive.google.com/uc?export=view&id=1aVqEb1TM9lIaH2H3EbeC6PYaCmTJ9bzU)
+![erd](https://drive.google.com/uc?export=view&id=1eJJuiJ6llu3C1n_Bxh6gK5BBDNvooOnF)
 
 
