@@ -16,8 +16,10 @@ This project is used mainly for storing medicine to maintain the details of medi
 ## ATTRIBUTE
 ![attribute](https://drive.google.com/uc?export=view&id=1o1L0LaHPz-m5mt0RjxxWoyYNW1MVK9zr)
 
-## DIAGRAM
+## CLASS DIAGRAM
 ![class diagram](https://drive.google.com/uc?export=view&id=1cVd5iCO46d7NUo6bdwHZpAOLnKZ-7INY)
+
+## ERD DIAGRAM
 
 ## RELATIONAL DATABASE MANAGEMENT SYSTEM DIAGRAM
 ![erd](https://drive.google.com/uc?export=view&id=1eJJuiJ6llu3C1n_Bxh6gK5BBDNvooOnF)
