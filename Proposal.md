@@ -27,6 +27,6 @@ This project is used mainly for storing medicine to maintain the details of medi
 
 ## USER INTERFACE
 Our proposed for user interface for Medicine Management Stock. This is what we can imagine.
-![interface]()
+![interface](https://drive.google.com/uc?export=view&id=1o-k4PYWG72zPFSEhwRSbeyuBaFTPHLQX)
 
 
