@@ -20,9 +20,10 @@ This project is used mainly for storing medicine to maintain the details of medi
 ![class diagram](https://drive.google.com/uc?export=view&id=1cVd5iCO46d7NUo6bdwHZpAOLnKZ-7INY)
 
 ## ERD DIAGRAM
+![erd](https://drive.google.com/uc?export=viewid=1Gqe_ueXlt8vh4KSF6D5sbEeSQHmybOsk)
 
 ## RELATIONAL DATABASE MANAGEMENT SYSTEM DIAGRAM
-![erd](https://drive.google.com/uc?export=view&id=1eJJuiJ6llu3C1n_Bxh6gK5BBDNvooOnF)
+![rdbms](https://drive.google.com/uc?export=view&id=1eJJuiJ6llu3C1n_Bxh6gK5BBDNvooOnF)
 
 ## USER INTERFACE
 Our proposed for user interface for Medicine Management Stock. This is what we can imagine.
