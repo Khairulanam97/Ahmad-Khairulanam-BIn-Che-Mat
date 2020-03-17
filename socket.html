@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<head>
+
+<title>Network Programming</title>
+
+</head>
+<body>
+
+<center><h1>Summary of Network Programming </h1></center><br>
+<h2>Socket Progamming?</h2>
+<p><blockquote cite="https://www.geeksforgeeks.org/socket-programming-cc/">
+"Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+</blockquote><p><br>
+<center><img src="https://media.geeksforgeeks.org/wp-content/uploads/Socket-Programming-in-C-C-.jpg" class="center" alt="https://www.geeksforgeeks.org/socket-programming-cc/" style="width:50%;">
+<a href="https://www.geeksforgeeks.org/socket-programming-cc/"><br>https://www.geeksforgeeks.org/socket-programming-cc/</a></center>
+
+<center><h2>TCP and UDP in Transport Layer</h2></center><br>
+
+<p>Layer 3 or the Network layer uses IP or Internet Protocol which being a connection less protocol treats every packet individually and separately leading to lack of reliability during a transmission. For example, when data is sent from one host to another, each packet may take a different path even if it belongs to the same session. This means the packets may/may not arrive in the right order. Therefore, IP relies on the higher layer protocols to provide reliability.</p>
+
+<h3>TCP (Transmission Control Protocol):</h3>
+<p>TCP is a layer 4 protocol which provides acknowledgement of the received packets and is also reliable as it resends the lost packets. It is better than UDP but due to these features it has an additional overhead. It is used by application protocols like HTTP and FTP.</p>
+
+<h3>UDP (User Datagram Protocol):</h3>
+<p>UDP is also a layer 4 protocol but unlike TCP it doesn’t provide acknowledgement of the sent packets. Therefore, it isn’t reliable and depends on the higher layer protocols for the same. But on the other hand it is simple, scalable and comes with lesser overhead as compared to TCP. It is used in video and voice streaming.</p>
+
+<img src="https://ydevern.files.wordpress.com/2018/09/tcp-vs-udp.png" alt="ydevern.files.wordpress.com">
+
+<h1>Sample Test 1 Q4</h1>
+<h2>2015/16</h2>
+<a href="https://drive.google.com/file/d/1yZvuoIo_HiDpcVJizM8778iM4-k3hs8Z/view?usp=sharing">Server</a>
+<a href="https://drive.google.com/file/d/1LIvX6bZ21BUKx92PpomtBnWoCeCZVTzZ/view?usp=sharing">Client</a>
+</body>
+</html>
